@@ -62,7 +62,7 @@ while True:
         check = check_ans(question, answer, score)
         if check:
             score += 1
-            break
+          
            
     break
 
